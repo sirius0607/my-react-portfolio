@@ -1,7 +1,9 @@
-# My portfolio built with React and a Bootstrap template
+# My portfolio built with React and Bootstrap
+
+http://sieg-portfolio.surge.sh/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-The CSS template is from https://startbootstrap.com/.
+The Bootstrap CSS template is from https://startbootstrap.com/.
 
 ## How to use
 1. Clone/Download the repo.
