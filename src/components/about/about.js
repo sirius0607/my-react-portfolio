@@ -2,16 +2,8 @@ import React, { Component } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default class About extends Component {
-  downloadCV(localeId) {
-    if (localeId === "fr") {
-      window.open(
-        "https://drive.google.com/open?id=1m7tCUr8s6qfDisWGnmXP4AiBLTMR7MJ0"
-      );
-    } else {
-      window.open(
-        "https://drive.google.com/open?id=16fCdZVa_BidAzhAcvdppfNgjCZ8xOIAY"
-      );
-    }
+  downloadCV(cvUrl) {
+      window.open(cvUrl);
   }
   render() {
     let portfolioData = this.props.portfolioData;
@@ -54,7 +46,7 @@ export default class About extends Component {
                     className="btn btn-primary mt-4"
                     alt={portfolioData.downloadButton}
                     title={portfolioData.downloadButton}
-                    onClick={()=>this.downloadCV(portfolioData.localeId)}
+                    onClick={()=>this.downloadCV(portfolioData.cvUrl)}
                   >
                     <FontAwesomeIcon icon="download" />{" "}
                     {portfolioData.downloadButton}

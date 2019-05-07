@@ -49,6 +49,7 @@ let portfolioData = {
       aboutTopSkillsName: "Scrum"
     }
   ],
+  cvUrl: "https://drive.google.com/open?id=16fCdZVa_BidAzhAcvdppfNgjCZ8xOIAY",
   downloadButton: "Download CV",
   skillsTitle: "Skills",
   languagesTitle: "languages: ",

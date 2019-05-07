@@ -1,9 +1,14 @@
 # My portfolio built with React and Bootstrap
 
-http://sieg-portfolio.surge.sh/
+This react + boostrap SPA is deployed on Surge and Heroku:
+
+http://sieg-portfolio.surge.sh/ (static web site on Surge)
+
+https://sieg-portfolio2.herokuapp.com/ (static web site running by nginx with Docker on Heroku cloud platform)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-The Bootstrap CSS template is from https://startbootstrap.com/.
+
+The Bootstrap CSS template comes from https://startbootstrap.com/.
 
 ## How to use
 1. Clone/Download the repo.
