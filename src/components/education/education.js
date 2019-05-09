@@ -20,7 +20,7 @@ export default class Education extends Component {
                 return (
                   <div className="row mb-5" key={item.id}>
                     <div className="col-lg">
-                      <h3 className="mb-0">{item.schoolName}</h3>
+                      <h4 className="mb-0">{item.schoolName}</h4>
                       <div className="subheading mb-3">{item.degree}</div>
                       <p>{item.specialization}</p>
                     </div>

@@ -21,7 +21,7 @@ export default class Experience extends Component {
                 return (
                   <div className="row mb-5" key={item.id}>
                     <div className="col-lg">
-                      <h3 className="mb-0">{item.role}</h3>
+                      <h4 className="mb-0">{item.role}</h4>
                       <div className="subheading mb-3">{item.companyName}</div>
                       <div className="text-primary">
                         {portfolioData.projectTitle}

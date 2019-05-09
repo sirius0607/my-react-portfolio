@@ -24,7 +24,7 @@ let portfolioData = {
   ],
   aboutTitle: "About",
   aboutDesc:
-    "I am a computing engineer leaving in Paris, France. I have 14+ years of experience in web application development and both client and server development skills. I have been working for 7 years as Tech Lead with a 7 people dev team in an insurance company. I am good at",
+    "I am a computing engineer leaving in Paris, France. I have 14+ years of experience in web application development and both front-end and back-end development skills. I have been working for 7 years as Tech Lead with a 7 people dev team in an insurance company.",
   aboutTopSkillsTitle: "I am good at",
   aboutTopSkills: [
     {
@@ -60,7 +60,7 @@ let portfolioData = {
     backend: {
       languages: [
         {
-          languageName: "Java 8"
+          languageName: "Java"
         },
         {
           languageName: "C"
@@ -227,7 +227,7 @@ let portfolioData = {
         { technicalName: "Java 8" },
         { technicalName: "Spring Boot 2.1" },
         { technicalName: "Spring Data JPA" },
-        { technicalName: "Spring Test(JUnit, Mockito)" },
+        { technicalName: "Spring Test (JUnit, Mockito)" },
         { technicalName: "DB2 v10" },
         { technicalName: "JAXB 2" },
         { technicalName: "JMS" },
@@ -288,7 +288,7 @@ let portfolioData = {
       id: "buffon",
       schoolName: "Lycée Buffon (secondary school), Paris",
       degree:
-        "preparatory classes : two-year undergraduate intensive course in mathematics and physics",
+        "Preparatory classes : two-year undergraduate intensive course in mathematics and physics",
       period: "September 1999 - June 2001",
       specialization: "MPSI, PSI"
     }

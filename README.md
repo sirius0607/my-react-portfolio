@@ -2,9 +2,9 @@
 
 This react + boostrap SPA is deployed on Surge and Heroku:
 
-http://sieg-portfolio.surge.sh/ (static web site on Surge)
+http://sieg-portfolio.surge.sh/ (static web site hosted on Surge)
 
-https://sieg-portfolio2.herokuapp.com/ (static web site running by nginx with Docker on Heroku cloud platform)
+https://sieg-portfolio2.herokuapp.com/ (static web site running by Nginx with Docker on Heroku Cloud Application Platform)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

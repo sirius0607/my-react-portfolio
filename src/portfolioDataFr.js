@@ -60,7 +60,7 @@ let portfolioDataFr = {
     backend: {
       languages: [
         {
-          languageName: "Java 8"
+          languageName: "Java"
         },
         {
           languageName: "C"
@@ -227,7 +227,7 @@ let portfolioDataFr = {
         { technicalName: "Java 8" },
         { technicalName: "Spring Boot 2.1" },
         { technicalName: "Spring Data JPA" },
-        { technicalName: "Spring Test(JUnit, Mockito)" },
+        { technicalName: "Spring Test (JUnit, Mockito)" },
         { technicalName: "DB2 v10" },
         { technicalName: "JAXB 2" },
         { technicalName: "JMS" },
