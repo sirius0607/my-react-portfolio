@@ -296,7 +296,10 @@ let portfolioDataFr = {
   interestsDesc:
     "Mise à part le développement web, j'aime passer le plus clair de mon temps libre à faire du sport. Je joue au foot et me déplace en longboard. Je fais aussi du snowboard l'hiver. Quand je reste chez moi je joue de la guitare et du ukulélé, regarde des films et suis différentes séries. Le développement web me passionne et je passe une grande partie de mon temps à découvrir les dernières avancées technologiques dans ce domaine. J'assiste aux conférences Devoxx France tous les ans.",
   contactTitle: "Contact",
-  contactTitle2: "Contactez moi"
+  contactTitle2: "Contactez moi",
+  mobile: "+33623420455",
+  email: "siegfried_alimi@yahoo.fr",
+  address: "13 rue Augustin Thierry 75019 Paris, France"
 };
 
 export default portfolioDataFr;
